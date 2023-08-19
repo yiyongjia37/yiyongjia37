@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yiyongjia37
+- 👀 I’m interested in Aspiring full-stack developer specializing in Django and Python. 
+- 🌱 I’m currently learning Creating user-centric web applications.
